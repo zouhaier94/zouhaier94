@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zouhaier Boudaya</h1>
 <h3 align="center">A passionate frontend developer studying in Germany</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br/>
 
 - 🔭 I’m currently working on **Pet-Shop Website**
@@ -45,8 +48,14 @@
 
 </p>
 
+
 <br/>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zouhaier94&show_icons=true&locale=en&layout=compact&theme=light" alt="" />
 </p>
+
+
+
+
+

@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Pet-Shop Website**
+- 🔭 I’m currently working on **Pet-Shop Website** and **Realtime-Private-Chat-App**
 
 - 🌱 I’m currently learning **React / Tailwind CSS / Redux / Firebase**
 

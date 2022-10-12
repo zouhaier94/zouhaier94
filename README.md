@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pet-Shop** and **Chat-App**
 
-- 🌱 I’m currently learning **React / Tailwind CSS / Redux / Firebase**
+- 🌱 I’m currently learning **React / Tailwind CSS / Firebase**
 
 - 📫 How to reach me **zouhaier.boudaya94@gmail.com**
 

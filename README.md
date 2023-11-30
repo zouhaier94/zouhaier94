@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zouhaier Boudaya</h1>
-<h3 align="center">A passionate frontend developer studying in Germany</h3>
+<h1 align="center">Hi 👋, I'm Zou</h1>
+<h3 align="center">A passionate Developer studying in Germany</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br/>
 
-- 🔭 I’m currently doing an Intership
+- 🔭 I’m currently working as a Full-Stack Developer
 
-- 🌱 I’m currently learning **Angular / TypeScript**
+- 🌱 My current Tech-Stack is  **Angular / Spring Boot**
 
 - 📫 How to reach me **zouhaier.boudaya94@gmail.com**
 
@@ -25,14 +25,18 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
 </a> 
-  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+
+<a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> 
 </a>
-  
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
